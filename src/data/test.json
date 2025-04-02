@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "name": "Run A",
+        "status": "Success",
+        "date": "2025-04-02",
+        "description": "Test Run A - First iteration",
+        "duration": 15
+    },
+    {
+        "id": "2",
+        "name": "Run B",
+        "status": "Failed",
+        "date": "2025-04-01",
+        "description": "Test Run B - Initial test",
+        "duration": 30
+    },
+    {
+        "id": "3",
+        "name": "Run C",
+        "status": "Success",
+        "date": "2025-04-03",
+        "description": "Test Run C - Performance testing",
+        "duration": 45
+    },
+    {
+        "id": "4",
+        "name": "Run D",
+        "status": "Failed",
+        "date": "2025-04-04",
+        "description": "Test Run D - Regression testing",
+        "duration": 20
+    },
+    {
+        "id": "5",
+        "name": "Run E",
+        "status": "Success",
+        "date": "2025-04-05",
+        "description": "Test Run E - Stability testing",
+        "duration": 60
+    },
+    {
+        "id": "6",
+        "name": "Run F",
+        "status": "Failed",
+        "date": "2025-04-06",
+        "description": "Test Run F - Load testing",
+        "duration": 25
+    },
+    {
+        "id": "7",
+        "name": "Run G",
+        "status": "Success",
+        "date": "2025-04-07",
+        "description": "Test Run G - Stress testing",
+        "duration": 35
+    },
+    {
+        "id": "8",
+        "name": "Run H",
+        "status": "Failed",
+        "date": "2025-04-08",
+        "description": "Test Run H - Security testing",
+        "duration": 50
+    },
+    {
+        "id": "9",
+        "name": "Run I",
+        "status": "Success",
+        "date": "2025-04-09",
+        "description": "Test Run I - Compatibility testing",
+        "duration": 40
+    },
+    {
+        "id": "10",
+        "name": "Run J",
+        "status": "Failed",
+        "date": "2025-04-10",
+        "description": "Test Run J - User acceptance testing",
+        "duration": 30
+    },
+    {
+        "id": "11",
+        "name": "Run K",
+        "status": "Success",
+        "date": "2025-04-11",
+        "description": "Test Run K - Integration testing",
+        "duration": 20
+    },
+    {
+        "id": "12",
+        "name": "Run L",
+        "status": "Failed",
+        "date": "2025-04-12",
+        "description": "Test Run L - API testing",
+        "duration": 30
+    },
+    {
+        "id": "13",
+        "name": "Run M",
+        "status": "Success",
+        "date": "2025-04-13",
+        "description": "Test Run M - Database testing",
+        "duration": 45
+    },
+    {
+        "id": "14",
+        "name": "Run N",
+        "status": "Failed",
+        "date": "2025-04-14",
+        "description": "Test Run N - Usability testing",
+        "duration": 25
+    },
+    {
+        "id": "15",
+        "name": "Run O",
+        "status": "Success",
+        "date": "2025-04-15",
+        "description": "Test Run O - Load testing",
+        "duration": 40
+    },
+    {
+        "id": "16",
+        "name": "Run P",
+        "status": "Failed",
+        "date": "2025-04-16",
+        "description": "Test Run P - Security audit",
+        "duration": 55
+    },
+    {
+        "id": "17",
+        "name": "Run Q",
+        "status": "Success",
+        "date": "2025-04-17",
+        "description": "Test Run Q - Exploratory testing",
+        "duration": 30
+    },
+    {
+        "id": "18",
+        "name": "Run R",
+        "status": "Failed",
+        "date": "2025-04-18",
+        "description": "Test Run R - Stress testing",
+        "duration": 50
+    },
+    {
+        "id": "19",
+        "name": "Run S",
+        "status": "Success",
+        "date": "2025-04-19",
+        "description": "Test Run S - Functional testing",
+        "duration": 60
+    },
+    {
+        "id": "20",
+        "name": "Run T",
+        "status": "Failed",
+        "date": "2025-04-20",
+        "description": "Test Run T - Regression testing",
+        "duration": 35
+    }
+]
